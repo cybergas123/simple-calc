@@ -12,8 +12,8 @@
 ## 3 :  cd folder you downloaded it in usualy it is Downloads - cd Downloads
 
 
-## 4 :  chmod +x randomnumbergenerator
+## 4 :  chmod +x simple-calc
 
-## 5 :  ./randomnumbergenerator
+## 5 :  ./simple-calc
 
 ## 6 : press enter
